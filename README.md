@@ -6,13 +6,13 @@
 
 ### Задание 2
 
-![101](https://github.com/Oigen181/SQL1-Andreev-Evgeny/assets/126493876/49b00096-cb03-4245-8f2e-f1a558853c8c)
+![101](https://github.com/Oigen181/SQL1-Andreev-Evgeny/assets/126493876/c587f24d-3b32-4ffb-95d6-866aa2a7fc5c)
 
 ---
 
 ### Задание 3
 
-![102](https://github.com/Oigen181/SQL1-Andreev-Evgeny/assets/126493876/bde50547-59e5-44b5-ae0d-0422820f7211)
+![102](https://github.com/Oigen181/SQL1-Andreev-Evgeny/assets/126493876/c77c0bbd-5471-41ee-83f4-b599efd992fb)
 
 ---
 ### Задание 4
