@@ -17,6 +17,6 @@
 ---
 ### Задание 4
 
-![103](https://github.com/Oigen181/SQL1-Andreev-Evgeny/assets/126493876/8952edcd-c108-4fe1-81a8-95f0401737d4)
+![103](https://github.com/Oigen181/SQL1-Andreev-Evgeny/assets/126493876/b33fde5b-3d77-49c2-84fd-9a0b1e1edd57)
 
 ---
